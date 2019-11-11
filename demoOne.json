@@ -1,0 +1,11 @@
+{
+"name":"Joni",
+"middleName":"Kumar",
+"tittle":"Sutradhor",
+"age":24,
+"education":[
+    {"ssc":"Chiknai High School"},
+    {"hsc":"Kazi Azim Uddin University College"},
+    {"bsc":"Southeast University"},
+  ]
+}
